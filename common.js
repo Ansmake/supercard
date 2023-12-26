@@ -3,7 +3,7 @@ document.getElementById('header-container').innerHTML = `
 <nav id="uni-navigation-bar" class="js-nav nav-02  nav-02--sticky  nav-02--sticky--black  ">
 <div class="container container--large">
     <div class="nav-02__box">
-        <div class="nav-02__logo"><a class="nav-02__link" href="https://supercard.unicornplatform.page/" target="_self">
+        <div class="nav-02__logo"><a class="nav-02__link" href="./index.html" target="_self">
             
     
                 <img class="nav-02__logo_img" height="39" alt="Frame 2376" src="./index_files/frame-2376.png" srcset="https://unicorn-cdn.b-cdn.net/f23ad5de-7146-4965-9d51-f32bec29011c/frame-2376.png?width=150&amp;height=39 150w,https://unicorn-cdn.b-cdn.net/f23ad5de-7146-4965-9d51-f32bec29011c/frame-2376.png?width=300&amp;height=78 300w,https://unicorn-cdn.b-cdn.net/f23ad5de-7146-4965-9d51-f32bec29011c/frame-2376.png?width=450&amp;height=117 450w," sizes="150px">
@@ -23,7 +23,7 @@ document.getElementById('header-container').innerHTML = `
     
         <li class="nav-02__item">
             
-                <a class="button  button--white-outline button--empty " href="https://supercard.unicornplatform.page/aboutus" target="_self"><span class="button__text">About Us</span>
+                <a class="button  button--white-outline button--empty " href="./aboutus.html" target="_self"><span class="button__text">About Us</span>
                     </a>
             
         </li>
@@ -34,7 +34,7 @@ document.getElementById('header-container').innerHTML = `
     
         <li class="nav-02__item">
             
-                <a class="button  button--white-outline button--empty " href="https://supercard.unicornplatform.page/contactus" target="_self"><span class="button__text">Contact Us</span>
+                <a class="button  button--white-outline button--empty " href="./contactus.html" target="_self"><span class="button__text">Contact Us</span>
                     </a>
             
         </li>
@@ -61,7 +61,7 @@ document.getElementById('header-container').innerHTML = `
     
         <li class="nav-02__item">
             
-                <a class="button  button--white-outline button--empty " href="https://supercard.unicornplatform.page/aboutus" target="_self"><span class="button__text">About Us</span>
+                <a class="button  button--white-outline button--empty " href="./aboutus.html" target="_self"><span class="button__text">About Us</span>
                     </a>
             
         </li>
@@ -72,7 +72,7 @@ document.getElementById('header-container').innerHTML = `
     
         <li class="nav-02__item">
             
-                <a class="button  button--white-outline button--empty " href="https://supercard.unicornplatform.page/contactus" target="_self"><span class="button__text">Contact Us</span>
+                <a class="button  button--white-outline button--empty " href="./contactus.html" target="_self"><span class="button__text">Contact Us</span>
                     </a>
             
         </li>
@@ -128,7 +128,7 @@ document.getElementById('footer-container').innerHTML = `
 
 <div class="footer-04__col">
 
-<a class="footer-04__logo_link" href="https://supercard.unicornplatform.page/" target="_self">
+<a class="footer-04__logo_link" href="./index.html" target="_self">
 
     
 
@@ -155,7 +155,7 @@ document.getElementById('footer-container').innerHTML = `
                                 
                                     
                                         <li class="footer-04__item">
-                                            <a href="https://supercard.unicornplatform.page/aboutus" target="_self" class="footer-04__link">
+                                            <a href="./aboutus.html" target="_self" class="footer-04__link">
                                                 About Us
                                             </a>
                                         </li>
@@ -163,7 +163,7 @@ document.getElementById('footer-container').innerHTML = `
                                 
                                     
                                         <li class="footer-04__item">
-                                            <a href="https://supercard.unicornplatform.page/contactus" target="_self" class="footer-04__link">
+                                            <a href="./contactus.html" target="_self" class="footer-04__link">
                                                 Contact Us
                                             </a>
                                         </li>
@@ -211,7 +211,7 @@ document.getElementById('footer-container').innerHTML = `
         
 
   <li class="footer-04__bottom_links_item">
-    <a target="_blank" href="https://supercard.unicornplatform.page/privacy-policy" class="footer-04__bottom_link footer-04__bottom_item">
+    <a target="_blank" href="./privacy-policy.html" class="footer-04__bottom_link footer-04__bottom_item">
       Privacy Policy
     </a>
   </li>
@@ -219,7 +219,7 @@ document.getElementById('footer-container').innerHTML = `
         
 
   <li class="footer-04__bottom_links_item">
-    <a target="_blank" href="https://supercard.unicornplatform.page/terms-and-conditions" class="footer-04__bottom_link footer-04__bottom_item">
+    <a target="_blank" href="./terms-and-conditions.html" class="footer-04__bottom_link footer-04__bottom_item">
       Terms of Service
     </a>
   </li>
@@ -227,7 +227,7 @@ document.getElementById('footer-container').innerHTML = `
         
 
   <li class="footer-04__bottom_links_item">
-    <a target="_blank" href="https://supercard.unicornplatform.page/refund-policy" class="footer-04__bottom_link footer-04__bottom_item">
+    <a target="_blank" href="./refund-policy.html" class="footer-04__bottom_link footer-04__bottom_item">
       Refund Policy
     </a>
   </li>
